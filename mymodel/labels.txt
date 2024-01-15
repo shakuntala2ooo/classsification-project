@@ -1,0 +1,3 @@
+0 earphone
+1 diary
+2 mug
